@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com automação de testes
-- 🌱 Estou em constante aprendizado, hoje estudo teste para API
+- 🌱 Estou em constante aprendizado, hoje estudo testes para API
 - 📚 Curso Sistemas de informação na UPM
 </div>
   
