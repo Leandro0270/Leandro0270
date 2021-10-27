@@ -1,9 +1,3 @@
-### Bem-vindo ao meu perfil 🙂
-
-
-- 🔭 Hoje trabalho com automação de testes
-- 🌱 Estou em constante aprendizado, hoje estudo teste para API
-- 📚 Curso Sistemas de informação na UPM
 
 <div align="center">
   <a href="https://github.com/Leandro0270">
