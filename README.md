@@ -5,13 +5,14 @@
   ##
   <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api?username=leandro0270&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro0270&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=leandro0270&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro0270&layout=compact&langs_count=7&theme=dark"/>
+  </div>
   ##
-<div align="center"> 
+  <div align="center"> 
   <a href = "mailto:qa.leandrosilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leandrosilva2703/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leandrosilva2703/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-
+    badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://t.me/leandro0270" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 
  
