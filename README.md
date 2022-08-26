@@ -1,5 +1,5 @@
 ## Oi, bem-vindo ao meu perfil 🙂
-- 🔭 Hoje trabalho com automação de testes na Compasso UOL
+- 🔭 Hoje trabalho com automação de testes na ZRP
 - 🌱 Estou em constante aprendizado, hoje estudo testes para API
 - 📚 Curso Sistemas de informação na UPM
   ##
