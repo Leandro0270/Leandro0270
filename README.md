@@ -1,6 +1,6 @@
 ## Oi, bem-vindo ao meu perfil 🙂
 - 🔭 Hoje trabalho com automação de testes na ZRP
-- 🌱 Estou em constante aprendizado, hoje estudo testes para API
+- 🌱 Estou em constante aprendizado, hoje estudo desenvolvimento de jogos flat e vr com unity
 - 📚 Curso Sistemas de informação na UPM
   ##
   <div align="center">
