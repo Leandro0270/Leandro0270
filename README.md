@@ -1,7 +1,7 @@
 ## Oi, bem-vindo ao meu perfil 🙂
-- 🔭 Hoje trabalho com automação de testes na ZRP
+- 🔭 Hoje trabalho como Engenheiro de qualidade de Software
 - 🌱 Estou em constante aprendizado, hoje estudo desenvolvimento de jogos flat e vr com unity
-- 📚 Curso Sistemas de informação na UPM
+- 📚 Curso Sistemas de Informação para a Gestão na ESTG
   ##
   <div align="center">
   <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro0270&layout=compact&langs_count=7&theme=dark"/>
